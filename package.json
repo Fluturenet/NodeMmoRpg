@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Fluturenet/NodeMmoRpg/issues"
   },
-  "homepage": "https://github.com/Fluturenet/NodeMmoRpg#readme"
+  "homepage": "https://github.com/Fluturenet/NodeMmoRpg#readme",
+  "dependencies": {}
 }
